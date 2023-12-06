@@ -101,7 +101,10 @@
                             "examples": {
                                 "Users": {
                                     "value": {
-                                        "name": "Yor Name"
+                                        "name": "Your Name",
+                                        "lastname": "Your last name",
+                                        "email": "e-mail",
+                                        "password": "12345"
                                     }
                                 }
                             }
